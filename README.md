@@ -17,6 +17,13 @@
 </div>
 <br/> 
 
+## My Projects
+<h4 align = 'center'>These are some of the projects I have worked on:</h4>
+<div align = 'center'>
+ <a href="https://github.com/Richa-9/FarmFresh-Hub">
+ <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Richa-9&repo=FarmFresh-Hub&theme=dark&hide_border=true" />
+ </a>
+
 ## Languages  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="35" /></a>  
