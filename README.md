@@ -31,7 +31,7 @@
  <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Richa-9&repo=Secure-Campus-Area-Network&theme=dark&hide_border=true" />
  </a>
   <a href="https://github.com/Akshat7274/v6_main_site">
- <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Richa-9&repo=v6_main_site&theme=dark&hide_border=true" />
+ <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Akshat7274&repo=v6_main_site&theme=dark&hide_border=true" />
  </a>
  <br/>
 
