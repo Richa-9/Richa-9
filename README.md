@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Richa Raikwar</h1>
-<h3 align="center">Final Year B.Tech student, Cybersecurity and Networking enthusiast.</h3>
+<h3 align="center">Computer Science Student, Budding Cybersecurity Expert.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richa-9&label=Profile%20views&color=0e75b6&style=flat" alt="richa-9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richa-9" alt="richa-9" /></a> </p>
+<h5 align="left">👨‍💻Cybersecurity and Networking enthusiast.</h5>
+<h5 align="left">🌐Because web development isn't just a hobby, it's a passion!-Building the web, one line of code at a time.</h5>
+<h5 align="left">🎨Graphic Designing aficionado- transforming concepts into captivating designs.</h5>
 
-- 📫 How to reach me **richaraikwar250@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14wTwG9mUmfMxHdPErau4V40ImYXuTBJ9/view?usp=sharing)
+📫 How to reach me **richaraikwar250@gmail.com**
+<div align = 'center' >
+  <h2> Click Here To See My Resume </h2>
+ <a href="https://drive.google.com/file/d/14wTwG9mUmfMxHdPErau4V40ImYXuTBJ9/view?usp=sharing" target="_blank">
+ <img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
+ </a>
+</div>
 
 <h3 align="left">👀Languages and Tools</h3>
 
