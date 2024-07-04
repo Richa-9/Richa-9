@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richa Raikwar</h1>
+![Header](./Header.jpg)
 <h2 align="center">Computer Science Student, Budding Cybersecurity Expert.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richa-9&label=Profile%20views&color=0e75b6&style=flat" alt="richa-9" /> </p>
