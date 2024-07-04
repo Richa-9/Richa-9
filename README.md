@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Richa Raikwar</h1>
 ![Header](./Header.jpg)
 <h2 align="center">Computer Science Student, Budding Cybersecurity Expert.</h2>
 
