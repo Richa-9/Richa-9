@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Richa Raikwar</h1>
-<h3 align="center">Computer Science Student, Budding Cybersecurity Expert.</h3>
+<h2 align="center">Computer Science Student, Budding Cybersecurity Expert.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richa-9&label=Profile%20views&color=0e75b6&style=flat" alt="richa-9" /> </p>
 
-<h5 align="left">👨‍💻Cybersecurity and Networking enthusiast.</h5>
-<h5 align="left">🌐Because web development isn't just a hobby, it's a passion!-Building the web, one line of code at a time.</h5>
-<h5 align="left">🎨Graphic Designing aficionado- transforming concepts into captivating designs.</h5>
+<h4 align="left">👨‍💻Cybersecurity and Networking enthusiast.</h4>
+<h4 align="left">🌐Because web development isn't just a hobby, it's a passion!-Building the web, one line of code at a time.</h4>
+<h4 align="left">🎨Graphic Designing aficionado- transforming concepts into captivating designs.</h4>
 
 📫 How to reach me **richaraikwar250@gmail.com**
 <div align = 'center' >
