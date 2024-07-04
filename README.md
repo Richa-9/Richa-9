@@ -15,6 +15,14 @@
  </a>
 </div>
 
+## My Projects
+<h4 align = 'center'>These are some of the projects I have worked on:</h4>
+<div align = 'center'>
+ <a href="https://github.com/Richa-9/FarmFresh-Hub">
+ <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=jrap-bit&repo=TuneLink&theme=dark&hide_border=true" />
+ </a>
+
+
 <h3 align="left">👀Languages and Tools</h3>
 
 
