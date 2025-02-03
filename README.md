@@ -58,6 +58,7 @@
 ## Tools and Databases
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="35" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="35" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="35" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="35" /></a> 
 <a href="https://www.kali.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" height="35" /></a>  
