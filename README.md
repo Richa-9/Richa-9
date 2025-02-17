@@ -20,6 +20,10 @@
 ## My Projects
 <h4 align = 'center'>These are some of the projects I have worked on:</h4>
 <div align = 'center'>
+  <a href="https://github.com/Richa-9/Reverse-Shell-Detector-and-Simulator">
+ <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Richa-9&repo=Reverse-Shell-Detector-and-Simulator&theme=dark&hide_border=true" />
+ </a>
+ <br/>
  <a href="https://github.com/Richa-9/FarmFresh-Hub">
  <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Richa-9&repo=FarmFresh-Hub&theme=dark&hide_border=true" />
  </a>
