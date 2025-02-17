@@ -20,10 +20,9 @@
 ## My Projects
 <h4 align = 'center'>These are some of the projects I have worked on:</h4>
 <div align = 'center'>
-  <a href="https://github.com/Richa-9/Reverse-Shell-Detector-and-Simulator">
+ <a href="https://github.com/Richa-9/Reverse-Shell-Detector-and-Simulator">
  <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Richa-9&repo=Reverse-Shell-Detector-and-Simulator&theme=dark&hide_border=true" />
  </a>
- <br/>
   <a href="https://github.com/Richa-9/The-Ocean-Story">
  <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Richa-9&repo=The-Ocean-Story&theme=dark&hide_border=true" />
  </a>
@@ -34,7 +33,6 @@
   <a href="https://github.com/Richa-9/LocknPic">
  <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Richa-9&repo=LocknPic&theme=dark&hide_border=true" />
  </a>
-  <div align = 'center'>
   <a href="https://github.com/Richa-9/Secure-Campus-Area-Network">
  <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Richa-9&repo=Secure-Campus-Area-Network&theme=dark&hide_border=true" />
  </a>
@@ -42,6 +40,7 @@
  <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Akshat7274&repo=v6_main_site&theme=dark&hide_border=true" />
  </a>
  <br/>
+<div align = 'center'>
 
 ## Languages  
 <div align="center">  
