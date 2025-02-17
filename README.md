@@ -59,6 +59,7 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" height="35" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="35" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="35" /></a>
+
 </div>
 <br/> 
 
@@ -90,7 +91,7 @@
 </div> 
 <br/>
 
-## GitHub Stats:
+## GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Richa-9&theme=transparent)
 
