@@ -90,8 +90,12 @@
 </div> 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richa-9&show_icons=true&locale=en&layout=compact" alt="richa-9" /></p>
+## GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richa-9&show_icons=true&locale=en" alt="richa-9" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Richa-9&theme=transparent)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richa-9&" alt="richa-9" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Richa-9&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Richa-9&theme=transparent)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Mcube728&icon=0&color=0)](https://visitcount.itsvg.in)
