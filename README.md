@@ -11,7 +11,7 @@
 <div align = 'center' >
 <br/> 
   <h2> Click Here To See My Resume </h2>
- <a href="https://drive.google.com/file/d/1aWOcKyxFLDJB7VylBoZMBlahUHMtbk4_/view?usp=sharing" target="_blank">
+ <a href="https://drive.google.com/file/d/1tsVjjSMM7aYreAxWzxKlhzwiUsOZx-wm/view?usp=sharing">
  <img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
  </a>
 </div>
