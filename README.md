@@ -24,6 +24,10 @@
  <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Richa-9&repo=Reverse-Shell-Detector-and-Simulator&theme=dark&hide_border=true" />
  </a>
  <br/>
+  <a href="https://github.com/Richa-9/The-Ocean-Story">
+ <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Richa-9&repo=The-Ocean-Story&theme=dark&hide_border=true" />
+ </a>
+ <br/>
  <a href="https://github.com/Richa-9/FarmFresh-Hub">
  <img src="https://github-readme-stats-jrap-bit.vercel.app/api/pin/?username=Richa-9&repo=FarmFresh-Hub&theme=dark&hide_border=true" />
  </a>
